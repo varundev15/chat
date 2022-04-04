@@ -142,7 +142,7 @@ function Profile(){
             <img className={styles.hero} src={"https://randomuser.me/api/portraits/med/women/2.jpg"} alt="" />
             <span>
                 <p>Good morning</p>
-                <h3>Michele Laurene</h3>
+                <h3>Michele Bot</h3>
             </span>
         </div>
         <div className={styles.btns}>
